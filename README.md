@@ -79,7 +79,7 @@ I enjoy turning complex business requirements into intuitive admin experiences a
         <li>⏱️ <b>Automated Late-Fee:</b> Built-in hourly penalty calculation and automated inventory reconciliation.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/rsyadipras/jayacamp">
+        <a href="https://github.com/Xskyis/PBL-JAYACAMP">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
